@@ -1,0 +1,33 @@
+h3 {
+
+
+text-align: center;
+}
+.nav {
+    color: #636962;
+    background-color: #f8c7c7;
+}
+ .marvel {
+color: rgb(213, 116, 116);
+
+}
+.ul {
+    text-align: right;
+    color: #c9a0a6;
+    background-color: #f8c7c7;
+}
+center {
+    background-color: #636962;
+}
+.instagram {
+    text-align: right;
+    
+}
+.new {
+    font-family: 'Times New Roman', Times, fantasy;
+    font-size: small-caps;
+    text-shadow: h-shadow;
+}
+body {
+    background-image: url(https://celes.club/uploads/posts/2022-11/1667259045_1-celes-club-p-delovoi-fon-dlya-prezentatsii-oboi-1.jpg)
+}
