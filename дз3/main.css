@@ -1,6 +1,5 @@
 h3 {
 
-
 text-align: center;
 }
 .nav {
@@ -23,11 +22,60 @@ center {
     text-align: right;
     
 }
-.new {
+.wrapper-p1 {
     font-family: 'Times New Roman', Times, fantasy;
-    font-size: small-caps;
-    text-shadow: h-shadow;
+    color: #669999
+    
+   
+
 }
 body {
     background-image: url(https://celes.club/uploads/posts/2022-11/1667259045_1-celes-club-p-delovoi-fon-dlya-prezentatsii-oboi-1.jpg)
+   
+}
+ .wrapper {
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+   
+    }
+  
+    .lorem1 {
+        font-size: 18px;
+        color: #636962;
+        
+    }
+  .lorem2 {
+    font-size: 16px;
+    color: #636962;
+  }
+  .uppercase {
+    text-transform: uppercase;
+    text-align: right;
+  }
+  .wrapper-p2 {
+    font-family: 'Times New Roman', Times, fantasy;
+    color: #339999;
+  }
+.wrapper-p3 {
+    font-family: 'Times New Roman', Times, fantasy;
+    color: #006666;
+}
+.wrapper-p4 {
+    font-family: 'Times New Roman', Times, fantasy;
+    color: #336666;
+}
+.wrapper-p5 {
+    font-family: 'Times New Roman', Times, fantasy;
+    color: #1f6969;
+}
+.wrapper-p6 {
+    font-family: 'Times New Roman', Times, fantasy;
+    color: #4d7777;
+}
+.wrapper-p5 {
+    padding: 0 10px;
+	background: rgba(154, 230, 237, 0.8);
 }
