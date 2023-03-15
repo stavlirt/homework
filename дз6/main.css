@@ -1,0 +1,26 @@
+#p1 {
+    color: brown;
+text-decoration: underline;
+}
+.wrapper {
+    font-size: 18px;
+}
+.p1 {
+    color: rgb(157, 237, 241);
+}
+.p2 {
+    color: rgb(209, 168, 80);
+}
+.p3 {
+    color: rgb(153, 86, 149);
+} 
+.p4 {
+    color: rgb(53, 186, 99);
+}
+.p5 {
+    color: rgb(143, 95, 189);
+}
+.wrapper_p {
+    color: aliceblue;
+    background-color: black;
+}

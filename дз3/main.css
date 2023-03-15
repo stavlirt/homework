@@ -31,7 +31,7 @@ center {
 }
 body {
     background-image: url(https://celes.club/uploads/posts/2022-11/1667259045_1-celes-club-p-delovoi-fon-dlya-prezentatsii-oboi-1.jpg)
-   
+  
 }
  .wrapper {
     max-width: 1300px;
@@ -79,7 +79,5 @@ body {
     padding: 0 10px;
 	background: rgba(154, 230, 237, 0.8);
 }
-.text7 {
-    style="font-style:italic"
+
     
-}
