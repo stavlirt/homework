@@ -5,13 +5,13 @@ text-decoration: underline;
 .wrapper {
     font-size: 18px;
 }
-.p1 {
+*.p1 {
     color: rgb(157, 237, 241);
 }
-.p2 {
+p {
     color: rgb(209, 168, 80);
 }
-.p3 {
+ #id_p3 {
     color: rgb(153, 86, 149);
 } 
 .p4 {
