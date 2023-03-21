@@ -1,9 +1,12 @@
 #p1 {
     color: brown;
 text-decoration: underline;
+text-transform: uppercase;
 }
-.wrapper {
+.wrapper p{
     font-size: 18px;
+   
+    text-transform: uppercase;
 }
 *.p1 {
     color: rgb(157, 237, 241);
