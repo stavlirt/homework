@@ -1,0 +1,154 @@
+.allbutton {
+    text-align: center;
+}
+ .button1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 32px;
+    gap: 19px;
+    
+    position: relative;
+    width: 102px;
+    height: 47px;
+    
+    background: #B8DAFF;
+ }
+ .text1 {
+    width: 38px;
+height: 11px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+color: #112A46;
+ }
+ .button2 {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 32px;
+gap: 10px;
+
+position: relative;
+width: 150px;
+height: 49px;
+
+background: #3A86FF;
+border-radius: 30px;
+ }
+ .text2 {
+    position: absolute;
+width: 82px;
+height: 13px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+border: none;
+text-decoration: none;
+outline:          none;
+ }
+ .button3 {
+    border: none;
+    background-color: white;
+    height: 12px;
+width: 175px;
+
+border-radius: 0px;
+
+ }
+ .text3 {
+    position: absolute;
+width: 161px;
+height: 12px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+color: #01A31B;
+    
+ }
+ .button4 {
+    box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 13px 32px;
+gap: 10px;
+background-color: white;
+position: relative;
+width: 124px;
+height: 48px;
+
+border: 1px dashed #E63946;
+ }
+ .text4 {
+    width: 60px;
+height: 22px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+
+display: flex;
+align-items: center;
+
+color: #1D3557;
+ }
+ .button5 {
+    box-sizing: border-box;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 32px;
+gap: 10px;
+background-color: white;
+position: relative;
+width: 146px;
+height: 48px;
+
+border: 1px solid rgba(46, 46, 46, 0.85);
+border-radius: 20px;
+ }
+ .text5 {
+    width: 82px;
+height: 12px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+align-items: center;
+color: #2E2E2E;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+ }
