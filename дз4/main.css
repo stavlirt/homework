@@ -8,7 +8,7 @@ font-family: Playfair Display;
 color:#B4AD9E;
 ;
 }
-.text1 {
+.text1:hover {
     
     font-size: 14px;
     font-weight: 300;
@@ -19,6 +19,13 @@ line-height: 19px;
 letter-spacing: 0em;
 text-align: left;
 
+position: relative;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+flex-wrap: wrap;
+background-color: #FFEB3B;
+padding: 20px 10px;
 
 
 
