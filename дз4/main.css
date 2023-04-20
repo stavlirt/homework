@@ -8,10 +8,28 @@ font-family: Playfair Display;
 color:#B4AD9E;
 ;
 }
-.text1 {
-    font-family: Ubuntu;
+.text1:hover {
+    
     font-size: 14px;
     font-weight: 300;
+    font-family: Playfair Display;
+font-size: 14px;
+font-weight: 432px;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+position: relative;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+flex-wrap: wrap;
+background-color: #FFEB3B;
+padding: 20px 10px;
+
+
+
+
 
 }
 .lifestyle {
@@ -35,11 +53,70 @@ color: #626262;
 
 }
 button {
+    position: absolute;
+    width: 165px;
     height: 60px;
-width: 165px;
-left: 0px;
-top: 0px;
+    left: 506px;
+    top: 1425px;
+    
 border-radius: 0px;
 text-align: center;
 border: 2px solid #626262
+}
+.text1 {
+    display: flex;
+    flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.conteiner1 {
+    display: flex;
+    flex-direction: row;
+ 
+}
+.conteiner2 {
+    display: flex;
+    flex-direction: row;
+   
+}
+.conteinerall {
+    align-items: center;
+   
+}
+.card1 {
+    position: absolute;
+width: 420px;
+height: 546px;
+left: 148px;
+top: 171px;
+}
+.card2 {
+    position: absolute;
+width: 420px;
+height: 546px;
+left: 633px;
+top: 171px;
+
+}
+.card3 {
+    position: absolute;
+width: 421px;
+height: 516px;
+left: 147px;
+top: 847px;
+
+}
+.card4 {
+    position: absolute;
+width: 420px;
+height: 516px;
+left: 633px;
+top: 847px;
+}
+.all {
+    position: relative;
+width: 1200px;
+height: 1543px;
+
+background: #FFFFFF;
 }
