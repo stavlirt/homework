@@ -1,0 +1,26 @@
+.button-section1 {
+   padding: 18px 32px;
+   border: none;
+   width: 200px;
+   margin: 50px;
+   background: black;
+   border-radius: 30px;
+   transition: background 1s;
+}
+.button-section1:hover {
+   background: pink;
+}
+.button-text-section1 {
+   color: white;
+}
+.img-for-animation1 {
+   height: 150px;
+transition: height 1s;
+transition-property: unset;
+transition-duration: 1s;
+transition-timing-function: 2s;
+transition-delay: initial;
+}
+.img-for-animation1:hover {
+   height: 250px;
+}
