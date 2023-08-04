@@ -44,3 +44,21 @@ transition-timing-function: linear;
     width: 100px;
     }
 }
+.quadrate {
+    width: 100px;
+height: 100px;
+background-color: black;
+animation-name: quadrate;
+animation-duration: 4s;
+animation-timing-function:linear; 
+animation-iteration-count: infinite;
+margin-top: 50px;
+}
+@keyframes quadrate {
+    0% {
+    transform: translate (e);
+    }
+    100% {
+        transform: translate(100vw);
+    }
+}
