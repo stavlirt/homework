@@ -1,0 +1,21 @@
+.h {
+    font-weight: 600;
+    font-style: italic;
+}
+.all {
+    display: flex;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.block {
+    width: 500 px;
+    height: 500px;
+    align-items: center;
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.img2 {
+    margin-top: 80px;
+margin-left: 200px;
+}
