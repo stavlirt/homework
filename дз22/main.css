@@ -62,3 +62,103 @@ margin-top: 50px;
         transform: translate(100vw);
     }
 }
+.box1 {
+    background-image: url(img1.svg);
+    height: 256px;
+    width: 256px;
+ 
+}
+.box2 {
+    background-image: url(mail-svgrepo-com.svg);
+    height: 64px;
+    width: 64px;
+    margin-top: 100px;
+    margin-left: 100px;
+    clip-path: ellipse(4rem 50% at right center);
+}
+.box3 {
+    background-image: url(user-com1.svg);
+    height: 64px;
+    width: 64px;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+.div1 {
+    width: 300px;
+    height: 300px;
+    background-image: url(user-com1.svg);
+    clip-path: polygon(
+      50% 0%,
+      60% 40%,
+      100% 50%,
+      60% 60%,
+      50% 100%,
+      40% 60%,
+      0% 50%,
+      40% 40%
+    );
+    animation: 4s poly infinite alternate ease-in-out;
+    margin: 10px auto;
+  }
+  
+  @keyframes poly {
+    from {
+      clip-path: polygon(
+        50% 0%,
+        60% 40%,
+        100% 50%,
+        60% 60%,
+        50% 100%,
+        40% 60%,
+        0% 50%,
+        40% 40%
+      );
+    }
+  
+    to {
+      clip-path: polygon(
+        50% 30%,
+        100% 0%,
+        70% 50%,
+        100% 100%,
+        50% 70%,
+        0% 100%,
+        30% 50%,
+        0% 0%
+      );
+    }
+  }
+.box4 {
+    background-image: url(user-svgrepo-com2.svg);
+    height: 64px;
+    width: 64px;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+.box4:hover {
+    background-color: black;
+}
+.circle {
+    float: left;
+    width: 64px;
+    height: 64px;
+    margin: 20px;
+    shape-outside: circle(50% at 30%);
+    clip-path: circle(50% at 0%);
+    background: lightblue;
+  }
+.box5 {
+    background-image: url(user-svgrepo-com3.svg);
+    height: 64px;
+    width: 64px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.polygon1 {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+ 
+    
