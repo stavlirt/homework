@@ -265,6 +265,7 @@ margin-top: 70px;
 .block-for-quadrates {
     position: relative;
     margin-top: 200px;
+    margin-bottom: 700px;
 }
 .allcontainer-25hw {
     display: flex;
@@ -343,3 +344,283 @@ text-align: center;
 .q1container-25hw-text-r {
     padding-top: 27px;
 }
+.homework26-allblock {
+    
+
+}
+
+
+
+
+
+.backdrop {
+    background-color: rgb(198, 192, 192);
+    
+    position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  z-index: 1;
+}
+.modal {
+    height: 581px;
+    width: 528px;
+ background-color: white;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ padding: 15px;
+}
+.backdrop.is-hidden {
+   /* opacity: 0;
+    pointer-events: none; */
+    display: none;
+}
+
+
+
+.h2text-for-hw26 {
+   
+    height: 23px;
+    width: 448px;
+    
+font-size: 20px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0.03em;
+text-align: center;
+margin-top: 8px;
+margin-left: 30px;
+margin-bottom: 10px
+
+
+
+}
+.teg-closewindow {
+    margin-left: 485px;
+}
+.texthw26-forinput {
+    font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #757575;
+
+}
+.iwijwidj {
+    width: 448px;
+    height: 40px;
+    radius: 4px;
+    margin-top: 6px;
+    border-radius: 5px;
+    color: #212121;
+}
+.allcontainer-for-xsacs {
+    margin-left: 40px;
+   
+}
+.spdpspsa {
+    margin-top: 10px;
+}
+.dlwpfkwp {
+   margin-top: 6px;
+    border-radius: 4px;
+    height: 120px;
+    width: 448px
+
+}
+.container33 {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    user-select: none;
+    bottom: -15px;
+    right: -65px;
+    
+  }
+  
+  .container33 input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+  
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 16px;
+    width: 16px;
+    background-color: #2196F3;
+    
+    
+  }
+  
+  .container33:hover input ~ .checkmark {
+    background-color: #ccc;
+    
+  }
+  
+  .container33 input:checked ~ .checkmark {
+    background-color: rgb(164, 160, 160);
+    
+  }
+  
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  
+  .container33 input:checked ~ .checkmark:after {
+    display: block;
+  }
+  
+  .container33 .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .pswldpa {
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #757575;
+
+
+  }
+  .pswldpa2 {
+    color: #2196F3;
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+margin-left: 3px;
+
+  }
+  .jekfjowe {
+    display: flex;
+    height: 24px;
+    width: 400.6234436035156px
+
+  }
+  .dkfmke {
+    width: 200px;
+height: 50px;
+top: 712px;
+left: 700px;
+border-radius: 4px;
+color: white;
+background-color: #2196F3;
+border-color: #2196F3;
+margin-top: 30px;
+margin-left: 155px;
+  } 
+  .data-modal-closee {
+    border: none;
+    background-color: white;
+  }
+  .classforinputfoto1 {
+
+  position: relative;
+  }
+  .class-for-svgfoto-hw261 {
+    position: absolute;
+  top: 20px;
+  margin-left: 13px;
+  }
+  .dkfmkeds {
+
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.06em;
+  }
+ 
+  .secondecontainer-forhw26 {
+    width: 570px;
+height: 86px;
+top: 1700px;
+left: 815px;
+border-radius: 4px;
+background-color: #2f303a;
+margin-left: 700px;
+margin-top: 150px;
+  }
+  .textforsecondecontainer {
+    color: white;
+    
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-align: left;
+margin-left: 5px;
+  } 
+  .for-inputsecondecontainer {
+    background-color: #2f303a;
+    width: 358px;
+height: 50px;
+border-radius: 4px;
+margin-left: 2px;
+margin-top: 5px;
+  }
+  .sldkqlwkd {
+    display: flex;
+    margin-left: 4px;
+     margin-top: 9px;
+
+  }
+  .sdksolkdskow {
+    width: 200px;
+height: 50px;
+background: #2196F3;
+border-color: #2196F3;
+border-radius: 4px;
+color: white;
+display: flex;
+margin-left: 18px;
+  }
+  .sldklakdlq {
+margin-top: 4px;
+
+ 
+  }
+  .fortext-hw26secondecontainer {
+    margin-left: 10px;
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.06em;
+text-align: center;
+margin-right: 8px;
+  }
+  .sldlskwwsjsjs {
+  margin-top: 7px;
+  }
+  .sldkqoqoq {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 4px;
+  }
